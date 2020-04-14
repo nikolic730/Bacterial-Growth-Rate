@@ -2,9 +2,8 @@
 
 Objective: I created these programs to quickly and accurately measure bacterial colony growth rates and colony
            deformations. The lab I joined was studying gap formation that was observed between genetically identical 
-           bacterial species, but not unrelated species. Measurements were typically collected manually using rulers. 
-           I created these programs to automate data collection which enabled my lab to collect more data that was 
-           also more reliable. 
+           bacterial species. Measurements were typically collected manually using rulers. I created these programs to
+           automate data collection which enabled my lab to collect more data that was also more reliable. 
 
 
 IntegratedGapMeasurement.m : This program measures the distance of the gap formed between two colonies of P. syringae. 
